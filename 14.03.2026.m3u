@@ -41,6 +41,10 @@ https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 http://rehberpro95.xyz:8080/live/3gYwKYqR9QHq/qHWKLYMryuYp/550783.ts
 #EXTINF:-1,TR: DMAX
 http://rehberpro95.xyz:8080/live/3gYwKYqR9QHq/qHWKLYMryuYp/550781.ts
+#EXTINF:-1,TR: HGTV US
+http://rehberpro95.xyz:8080/live/3gYwKYqR9QHq/qHWKLYMryuYp/844922.ts
+#EXTINF:-1,TR: HGTV DE
+http://rehberpro95.xyz:8080/live/3gYwKYqR9QHq/qHWKLYMryuYp/845981.ts
 #EXTINF:-1,TR: DISCOVERY CHANNEL HD
 http://rehberpro95.xyz:8080/live/3gYwKYqR9QHq/qHWKLYMryuYp/550795.ts
 #EXTINF:-1,TR: NATIONAL GEOGRAPHIC HD
@@ -55,6 +59,8 @@ http://rehberpro95.xyz:8080/live/3gYwKYqR9QHq/qHWKLYMryuYp/550789.ts
 http://rehberpro95.xyz:8080/live/3gYwKYqR9QHq/qHWKLYMryuYp/550780.ts
 #EXTINF:-1,TR: BEIN GURME HD
 http://rehberpro95.xyz:8080/live/3gYwKYqR9QHq/qHWKLYMryuYp/550779.ts
+#EXTINF:-1,TR: MAŞA VE KOCAAYI
+http://rehberpro95.xyz:8080/live/3gYwKYqR9QHq/qHWKLYMryuYp/645285.ts
 #EXTINF:-1,TR: CARTOON NETWORK
 http://rehberpro95.xyz:8080/live/3gYwKYqR9QHq/qHWKLYMryuYp/844622.ts
 #EXTINF:-1,TR: CARTOONITE
@@ -119,3 +125,11 @@ http://rehberpro95.xyz:8080/live/3gYwKYqR9QHq/qHWKLYMryuYp/842949.ts
 https://lightning-traceurban-samsungau.amagi.tv/playlist720p.m3u8
 #EXTINF:-1,RELOAD MUSIC
 http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
+#EXTINF:-1,RTL
+http://rehberpro95.xyz:8080/live/3gYwKYqR9QHq/qHWKLYMryuYp/845974.ts
+#EXTINF:-1,SAT 1
+http://rehberpro95.xyz:8080/live/3gYwKYqR9QHq/qHWKLYMryuYp/845951.ts
+#EXTINF:-1,POLSAT CAFE
+http://rehberpro95.xyz:8080/live/3gYwKYqR9QHq/qHWKLYMryuYp/847413.ts
+#EXTINF:-1,POLSAT 2
+http://rehberpro95.xyz:8080/live/3gYwKYqR9QHq/qHWKLYMryuYp/847353.ts
