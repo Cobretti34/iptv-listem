@@ -1,34 +1,12 @@
 #EXTM3U
 #EXTINF:-1,TR: TRT 1 FHD
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1,TR: KANAL D FHD
-http://cevo1.ddns.me:8080/live/kbDA67tnfr/h6AhLZ4FB9/68450.ts
-#EXTINF:-1,TR: ATV FHD
-http://cevo1.ddns.me:8080/live/kbDA67tnfr/h6AhLZ4FB9/256999.ts
-#EXTINF:-1,TR: SHOW TV FHD
-http://cevo1.ddns.me:8080/live/kbDA67tnfr/h6AhLZ4FB9/68445.ts
-#EXTINF:-1,TR: STAR TV FHD
-http://cevo1.ddns.me:8080/live/kbDA67tnfr/h6AhLZ4FB9/68441.ts
-#EXTINF:-1,TR: NOW TV FHD
-http://cevo1.ddns.me:8080/live/kbDA67tnfr/h6AhLZ4FB9/68453.ts
-#EXTINF:-1,TR: TV 8 HD
-http://cevo1.ddns.me:8080/live/kbDA67tnfr/h6AhLZ4FB9/68458.ts
 #EXTINF:-1,TR: TV 360 HD
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
-#EXTINF:-1,TR: NTV FHD
-http://cevo1.ddns.me:8080/live/kbDA67tnfr/h6AhLZ4FB9/68472.ts
 #EXTINF:-1,TR: TRT HABER HD
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1,TR: CNN TURK FHD
-http://cevo1.ddns.me:8080/live/kbDA67tnfr/h6AhLZ4FB9/68474.ts
-#EXTINF:-1,TR: HABERTURK HD
-http://cevo1.ddns.me:8080/live/kbDA67tnfr/h6AhLZ4FB9/68476.ts
 #EXTINF:-1,TR: TGRT HABER HD
 https://canli.tgrthaber.com/tgrt.m3u8
-#EXTINF:-1,TR: A HABER HD
-http://cevo1.ddns.me:8080/live/kbDA67tnfr/h6AhLZ4FB9/68469.ts
-#EXTINF:-1,TR: HABER GLOBAL HD
-http://cevo1.ddns.me:8080/live/kbDA67tnfr/h6AhLZ4FB9/68478.ts
 #EXTINF:-1,TR: TV 100
 https://tv100.daioncdn.net/tv100/tv100_1080p.m3u8?app=web
 #EXTINF:-1,TR: BEYAZ TV
@@ -37,36 +15,10 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 #EXTINF:-1,TR: TRT BELGESEL HD
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,TR: TLC
-http://cevo1.ddns.me:8080/live/kbDA67tnfr/h6AhLZ4FB9/246062.ts
-#EXTINF:-1,TR: DMAX
-http://cevo1.ddns.me:8080/live/kbDA67tnfr/h6AhLZ4FB9/246049.ts
-#EXTINF:-1,TR: DISCOVERY CHANNEL HD
-http://strtvv.xyz:2095/live/cuneyt7159/7159cuneyt/87485.ts
-#EXTINF:-1,TR: NATIONAL GEOGRAPHIC HD
-http://strtvv.xyz:2095/live/cuneyt7159/7159cuneyt/57679.ts
-#EXTINF:-1,TR: NATIONAL GEOGRAPHIC WILD HD
-http://strtvv.xyz:2095/live/cuneyt7159/7159cuneyt/124643.ts
-#EXTINF:-1,TR: LOVE NATURE HD
-http://strtvv.xyz:2095/live/cuneyt7159/7159cuneyt/147538.ts
-#EXTINF:-1,TR: BBC EARTH HD
-http://strtvv.xyz:2095/live/cuneyt7159/7159cuneyt/17759.ts
-#EXTINF:-1,TR: BEIN IZ HD
-http://strtvv.xyz:2095/live/cuneyt7159/7159cuneyt/156939.ts
-#EXTINF:-1,TR: BEIN GURME HD
-http://strtvv.xyz:2095/live/cuneyt7159/7159cuneyt/95161.ts
-#EXTINF:-1,TR: MAŞA VE KOCAAYI
-http://strtvv.xyz:2095/live/cuneyt7159/7159cuneyt/124344.ts
 #EXTINF:-1,TR: TRTSPOR HD
 https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1,TR: TRT SPOR YILDIZ HD
 http://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1,TR: A SPOR HD
-http://strtvv.xyz:2095/live/cuneyt7159/7159cuneyt/93986.ts
-#EXTINF:-1,TR: FB TV HD
-http://cevo1.ddns.me:8080/live/kbDA67tnfr/h6AhLZ4FB9/68414.ts
-#EXTINF:-1,TR: SPOR
-http://strtvv.xyz:2095/live/cuneyt7159/7159cuneyt/66811.ts
 #EXTINF:-1,TR: TRT MÜZİK HD
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,TR: POWER TV
